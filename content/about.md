@@ -1,9 +1,6 @@
 +++
-title = "ab"
-date = 2019-11-27
+title="About"
 +++
 
-about
-about
-about
-about
+
+hi 🙋🏻

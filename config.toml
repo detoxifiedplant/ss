@@ -2,7 +2,7 @@
 base_url = "https://kamalgajera.pages.dev/"
 
 theme = "hermit_zola"
-title = "Krishna"
+title = "Kamal Gajera"
 description = "namah"
 output_dir = "public"
 generate_sitemap = true
@@ -11,7 +11,11 @@ generate_sitemap = true
 compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = false
+build_search_index = true
+
+taxonomies = [
+           {name = "tags"}
+]
 
 [markdown]
 # Whether to do syntax highlighting
@@ -26,9 +30,9 @@ taxonomics = "on"
 anchors = "on"
 
 [extra]
-home_subtitle = "Some profound and catchy statement"
+home_subtitle = "bits bytes & beyond"
 
-footer_copyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+# footer_copyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 hermit_menu = [
     { link = "/posts", name = "Posts" },
@@ -36,9 +40,11 @@ hermit_menu = [
 ]
 
 hermit_social = [
-    { name = "twitter", link = "https://twitter.com" },
-    { name = "github", link = "https://github.com/detoxifiedplant" },
-    { name = "email", link = "mailto:author@domain.com" }
+	{ name = "github", link = "https://github.com/detoxifiedplant" },
+    { name = "linkedin", link = "https://www.linkedin.com/in/kamal-gajera/" },
+	{ name = "email", link = "mailto:detoxifiedplant@gamil.com" },
+	# { name = "gitlab", link = "mailto:author@domain.com" },
+    # { name = "twitter", link = "mailto:author@domain.com" },
 ]
 
 [extra.highlightjs]
@@ -52,5 +58,5 @@ enable = false
 shortname = "my-supa-dupa-blog"
 
 [extra.author]
-name = "The Author"
-email = "author@domain.com"
+name = "made with 🧘🏻 and Zola"
+# email = "author@domain.com"
