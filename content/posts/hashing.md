@@ -7,5 +7,5 @@ tags = ["hash", "algorithm", "cryptography"]
 +++
 
 
-# Hashing
+# Under construction
 

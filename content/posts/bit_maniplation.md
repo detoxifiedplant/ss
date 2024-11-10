@@ -1,7 +1,7 @@
 +++
 title="Bit Manipulation And Performance"
 date=2023-08-23
-draft=false
+draft=true
 [taxonomies]
 tags=["bit", "bitwise", "math"]
 +++
