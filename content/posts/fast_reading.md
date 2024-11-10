@@ -57,5 +57,6 @@ In essence, speed reading is about intentional reading. It is about focusing on 
 ---
 
 [^1]: [Subvocalization](https://blog.superhuman.com/subvocalization/)
+
 [^2]: [6 Tips To Stop It](https://www.speedreadinglounge.com/subvocalization)
 
