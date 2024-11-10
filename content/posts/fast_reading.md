@@ -52,7 +52,10 @@ These from the book:
 
 In essence, speed reading is about intentional reading. It is about focusing on reading as a way to assimilate information, rather than reading for the sake of reading. And it is about cutting the cruft from our reading behaviour. There’s no controversy or cheating in that.
 
-**Footnote**: took this article for my personal reference(would keep on adding new ideas) from [Akshay Dinesh](https://github.com/asdofindia)
+**Footnote**: inspired to put this article for my reference(would keep on adding new ideas) from [Akshay Dinesh](https://github.com/asdofindia)
+
+---
+
 [^1]: [Subvocalization](https://blog.superhuman.com/subvocalization/)
 [^2]: [6 Tips To Stop It](https://www.speedreadinglounge.com/subvocalization)
 
