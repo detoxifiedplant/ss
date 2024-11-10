@@ -58,5 +58,5 @@ enable = false
 shortname = "my-supa-dupa-blog"
 
 [extra.author]
-name = "made with 🧘🏻 and Zola"
+name = "made with Zola"
 # email = "author@domain.com"
