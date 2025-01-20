@@ -42,7 +42,7 @@ hermit_menu = [
 hermit_social = [
 	{ name = "github", link = "https://github.com/detoxifiedplant" },
     { name = "linkedin", link = "https://www.linkedin.com/in/kamal-gajera/" },
-	{ name = "email", link = "mailto:detoxifiedplant@gamil.com" },
+	{ name = "email", link = "mailto:byte.inversion@gamil.com" },
 	# { name = "gitlab", link = "mailto:author@domain.com" },
     # { name = "twitter", link = "mailto:author@domain.com" },
 ]
